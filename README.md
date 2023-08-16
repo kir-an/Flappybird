@@ -13,7 +13,7 @@
 - Python 3.5 or higher
 - [pygame](https://www.pygame.org/news).  Install it with `pip install pygame`
 ### Download this reposity 
-`git clone https://github.com/Kir-an/FlappyBird`
+`git clone https://github.com/kir-an/FlappyBird`
 or download as a zip file directly.
 ## How to play
 ### Run the game
